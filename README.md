@@ -97,7 +97,7 @@ Desenvolver um portal web intuitivo e funcional, que nele seja possível agendar
 ## Relatório das Sprints
 
 <ol>
-  <li><a href="#">Sprint 01 - 25/03/2023</a></li>
+  <li><a href="./sprints/Sprint_01.md">Sprint 01 - 25/03/2023</a></li>
   <li><a href="#">Sprint 02 - 15/04/2023</a></li>
   <li><a href="#">Sprint 03 - 06/05/2023</a></li>
   <li><a href="#">Sprint 04 - 27/05/2023</a></li>
